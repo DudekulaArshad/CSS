@@ -1,0 +1,30 @@
+#aa{
+    color: red;
+    background-color: cornflowerblue;
+    width: 40%;
+    float:right;
+    float:left;
+}
+#a{
+    color:aqua;
+    background-color: palevioletred;
+
+    width:300px;
+    float:left;
+}
+.b{
+    color:lime;
+    background-color: brown;
+    width:300px;
+    padding:10px;
+   /* margin: 10px; 
+   margin: 10px 20px 50px 90px; */
+
+}
+.L{
+    color: yellow;
+    height: 20px;
+    background-color: blue;
+
+
+}

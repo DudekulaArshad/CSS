@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+body{
+    color:green;
+    background-color: black;
+}
+
+#a{
+    color:red;
+    background-color: aqua;
+    height:40px;
+    
+   
+}
+.b{
+    color: greenyellow;
+   background-color: red;
+   height:40px; 
+   /*  top:12px;
+    left:2px;
+    right:100px;
+    bottom:10px;
+    position:relative;*/
+}
+.c{
+    color:black;
+    background-color: orange;
+    height:40px;
+    /*position: absolute; *//*  it will move the div into the under the div*/
+
+}
+
+.d{
+    color: orange;
+    position:sticky;
+    top:30px;
+    background-color: purple;
+    height:40px;
+    bottom:100px
+}
